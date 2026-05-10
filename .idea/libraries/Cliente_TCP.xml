@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Cliente_TCP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Cliente_TCP.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
